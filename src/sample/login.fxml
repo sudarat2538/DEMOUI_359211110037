@@ -14,12 +14,12 @@
    <children>
       <Pane prefHeight="400.0" prefWidth="248.0" style="-fx-background-color: #ff8f00;">
          <children>
-            <ImageView fitHeight="113.0" fitWidth="113.0" layoutX="68.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="113.0" fitWidth="113.0" layoutX="68.0" layoutY="35.0" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@../image/icons8_Classroom_96px.png" />
                </image>
             </ImageView>
-            <Label layoutX="20.0" layoutY="172.0" prefHeight="28.0" prefWidth="209.0" text="School Management System">
+            <Label layoutX="25.0" layoutY="172.0" prefHeight="28.0" prefWidth="209.0" text="School Management System">
                <font>
                   <Font name="System Bold" size="15.0" />
                </font>
